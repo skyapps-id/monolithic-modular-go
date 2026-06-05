@@ -1,0 +1,5 @@
+preset: inventory
+server:
+  addr: ":8081"
+  api_prefix: "/api/v1"
+modules: []
